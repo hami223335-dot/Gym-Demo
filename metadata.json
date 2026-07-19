@@ -1,0 +1,6 @@
+{
+  "name": "Gym & Fitness Demo",
+  "description": "A premium, luxury, universal Gym & Fitness demo website featuring a membership booker, BMI calculator, class schedule, and rich animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
